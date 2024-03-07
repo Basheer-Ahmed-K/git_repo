@@ -25,3 +25,5 @@ Step 8: Fetch the changes, navigate into the cloned repository using the command
 
 Step 9: Pull changes, merge the changes you just fetched into your local copy of the repository, and use the command git pull.
         This change is for pull
+
+Successfully Completed the Question 1
