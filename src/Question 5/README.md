@@ -12,7 +12,7 @@ Step 2: Switch to the new branch.
 
 		Add and commit the changes to the new branch.
 
-		open the same file and make some changes to it.
+		open the same file and make some changes to it. (change 3 done)
 
 		Add and commit the changes to the new branch.
 
