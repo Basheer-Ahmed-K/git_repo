@@ -6,9 +6,9 @@ Step 2: Switch to the new branch.
 
 		open the file and make some changes to it. (change 1 done)
 
-		Add and commit the changes to the new branch.
+		Add and commit the changes to the new branch. 
 
-		open the same file and make some changes to it.
+		open the same file and make some changes to it. (change 2 done)
 
 		Add and commit the changes to the new branch.
 
