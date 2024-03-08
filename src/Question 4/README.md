@@ -1,7 +1,11 @@
 Step 1: Step 1: Create a feature branch.
 
 Step 2: Switch to the new branch.
+
 		open the file and make some changes to it.
+		open the file and make some changes to it. 
+		("This is the changes")
+		(again changes done)
 		Add and commit the changes to the new branch.
 		open the same file and make some changes to it.
 		Add and commit the changes to the new branch.
