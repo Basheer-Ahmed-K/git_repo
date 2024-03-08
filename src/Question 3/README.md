@@ -5,7 +5,7 @@ Step 1: Create a feature branch.
 Step 2: Switch to the new branch.
 
 Step 3: open the file and make some changes to it.
-        Edited this file
+        Edited this file (added again changes)
 
 Step 4: Add and commit the changes to the new branch.
 
